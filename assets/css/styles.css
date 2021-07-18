@@ -72,8 +72,7 @@ details {
 
 /*!
  * Bootstrap v4.5.3 (https://getbootstrap.com/)
- * Copyright 2011-2020 The Bootstrap Authors
- * Copyright 2011-2020 Twitter, Inc.
+ 
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
 :root {
@@ -19024,6 +19023,11 @@ footer.footer-page .line-bottom {
 }
 
 footer.footer-page .copyright p.copyright {
+    margin: 20px 0;
+    color: #fff;
+    font-size: 18px
+}
+footer.footer-page .paki p.paki {
     margin: 20px 0;
     color: #fff;
     font-size: 18px

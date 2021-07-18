@@ -34,7 +34,7 @@
                         <h5 class="custom-heading text-center">العنوان</h5>
                     </div>
                     <div class="contant-column">
-                        <p class="text-center">المملكة العربية السعودية، الرياض</p>
+                        <p class="text-center">تونس</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-12 line-left">
@@ -110,9 +110,7 @@
     <?php include 'footer.php';?>
     
   
-    <script type="text/script" src="%7brequire%7b%27/index.html"></script>
 </body>
 
 
-<!-- Mirrored from abdo-developer.github.io/digital-stardom-online/request_price.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 17 Jul 2021 09:56:25 GMT -->
 </html>

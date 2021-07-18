@@ -169,10 +169,7 @@
     </section>
     
     <?php include 'footer.php';?>
-    <script src="../../code.jquery.com/jquery-3.3.1.slim.min.js"></script>
-    <script type="text/script" src="%7brequire%7b%27/index.html"></script>
-    <script src="../../unpkg.com/aos%402.3.1/dist/aos.js"></script>
-    <script>AOS.init()</script>
+
 </body>
 
 
